@@ -1,4 +1,4 @@
-# DIP-Project-zero-to-hero
+# DIP-Project
  app using streamlit using Python programming language
  use streamlit.
 requirements:-
